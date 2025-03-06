@@ -13,7 +13,7 @@ This is a simple Telegram bot starter project built using Node.js and Express. T
 ## Prerequisites
 * Node.js installed on your machine.
 * A Telegram bot token.You can get this by creating a new bot via the BotFather on Telegram.
-## Installation
+## Installation      
 
 Clone the repository:
 
