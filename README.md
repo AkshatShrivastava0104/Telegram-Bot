@@ -6,7 +6,7 @@ This is a simple Telegram bot starter project built using Node.js and Express. T
 ## Features
  
 - Message Handling
-- Telegram API Integration 
+- Telegram API Integration  
 
 
 
